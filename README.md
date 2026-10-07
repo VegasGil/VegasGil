@@ -1,4 +1,3 @@
-
 **Cybersecurity Engineer | RBVM & Vulnerability Management | Detection Engineering**
 
 Profesional de ciberseguridad especializado en gestión de vulnerabilidades basada en riesgo (RBVM) e ingeniería de detección, con experiencia práctica en Microsoft Sentinel, Defender XDR, DFIR y automatización con Python y KQL. Combino más de una década de trayectoria en fraude bancario y análisis de riesgos con capacidades técnicas en priorización de vulnerabilidades (CVSS, EPSS, KEV), simulación de ataques y creación de reglas de detección.
