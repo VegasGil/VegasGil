@@ -1,4 +1,3 @@
-# Freddy Alexis Vegas
 
 **Cybersecurity Engineer | RBVM & Vulnerability Management | Detection Engineering**
 
@@ -19,7 +18,7 @@ Profesional de ciberseguridad especializado en gestión de vulnerabilidades basa
 
 **[GestiondeActivosVulnerabilidades](https://github.com/VegasGil/GestiondeActivosVulnerabilidades)**: plataforma de correlación de vulnerabilidades que centraliza información de seguridad de varias fuentes. Identifica puntos ciegos de EDR y dispositivos sin cobertura, y ofrece paneles de priorización de riesgos. Usa Microsoft Sentinel, Defender XDR, KQL, Python y n8n. Los datos de la demo están anonimizados.
 
-Otros repositorios: [InformeEjecutivo](https://github.com/VegasGil/InformeEjecutivo), [fase2](https://github.com/VegasGil/fase2), [portfoliohub](https://github.com/VegasGil/portfoliohub).
+Otros repositorios: [CYBER-AD-Sentinel](https://github.com/VegasGil/CYBER-AD-Sentinel-Lite_v3), [Motor de riesgo de phishing](https://github.com/Seguril/PhishRisk_Engine), [portfoliohub](https://vegaseguridad.com/).
 
 ## Trayectoria
 
@@ -36,5 +35,5 @@ Otros repositorios: [InformeEjecutivo](https://github.com/VegasGil/InformeEjecut
 
 ## Contacto
 
-- LinkedIn: [Freddy Alexis Vegas](https://www.linkedin.com/in/TU-USUARIO)
+- LinkedIn: [Freddy Alexis Vegas](https://www.linkedin.com/in/freddy-vegas/)
 - Web y laboratorios: [vegaseguridad.com](https://vegaseguridad.com)
