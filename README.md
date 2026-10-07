@@ -25,12 +25,17 @@ Otros repositorios: [CYBER-AD-Sentinel](https://github.com/VegasGil/CYBER-AD-Sen
 - **i2CAT Research Centre**, Cybersecurity Analyst | Detection Engineering & SOC Operations, mar. 2026 – sept. 2026
 - **SOCISTAR Caribe**, Red Team ciberseguridad (prácticas), jun. 2025 – ago. 2025
 - **BBVA Provincial**, Técnico de seguridad de información (fraude, phishing y Account Takeover), 2019 – 2022
+- **FRAUD ANALYST / FRAUD PREVENTION ANALYST DELSUR Banco Universal | 2017 – 2018 & Banco Unión | 2012 – 2016
+
 
 ## Formación y certificaciones
 
 - CFGS Administración de Sistemas Informáticos en Red con perfil en Ciberseguridad, iFP
 - Especialista en Ciberseguridad: Microsoft Defender XDR y Endpoint (Microsoft, 2026)
 - Varias rutas de Microsoft Learn sobre Microsoft Sentinel: configuración del entorno, conexión de registros, indicadores de amenazas, Defender XDR, consultas KQL e incidentes
+- Certificado Profesional Nivel 3 – Seguridad Informática (IFCT0109) SEPE
+- Licenciatura en Administración, Organización y Sistemas Universidad Simón Rodríguez
+
 
 ## Contacto
 
